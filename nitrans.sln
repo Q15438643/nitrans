@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "nitrans", "nitrans.csproj", "{510C579C-32F9-4FB4-939B-57187C247879}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nitrans_socket_client", "..\nitrans_socket_client\nitrans_socket_client.csproj", "{520565FF-E85E-49FF-B208-9DCFFE0EF407}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{510C579C-32F9-4FB4-939B-57187C247879}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{510C579C-32F9-4FB4-939B-57187C247879}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{510C579C-32F9-4FB4-939B-57187C247879}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{510C579C-32F9-4FB4-939B-57187C247879}.Release|Any CPU.Build.0 = Release|Any CPU
+		{520565FF-E85E-49FF-B208-9DCFFE0EF407}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{520565FF-E85E-49FF-B208-9DCFFE0EF407}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{520565FF-E85E-49FF-B208-9DCFFE0EF407}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{520565FF-E85E-49FF-B208-9DCFFE0EF407}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF82217F-C791-46DF-82DF-8EA1B79C5CDD}
+	EndGlobalSection
+EndGlobal
